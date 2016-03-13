@@ -1,0 +1,28 @@
+Please install R-Studio to run the R code.
+===================================================================================
+To install R-studio see http://www.r-bloggers.com/download-and-install-r-in-ubuntu/
+===================================================================================
+Open the code in R Studio -> To run it click on source
+If any problem in running the code see 
+http://www.rexamples.com/8/How%20to%20run%20the%20code
+
+Example
+1. Input
+Please enter the number of the level you want in pyramind: 3
+Output
+*  *  *  *  *  [1] ""
+  *  *  *  [1] ""
+    *  [1] ""
+
+2. Input
+Please enter a +ve number to convert it into binary: 4
+Output
+[1] 0 1 0 0
+
+3.
+Input
+Please enter x values3
+Please enter y values2
+Please enter z values5
+Output
+[1] 4
