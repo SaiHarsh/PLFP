@@ -32,6 +32,10 @@ def interpreter(text,flag):
                 print '[out]',left*right
             elif text[count]=='/':
                 print '[out]',left/right
+            elif text[count]=='%':
+                print '[out]',left%right
+            elif text[count]=='^':
+                print '[out]',left**right
             else:
                 print'[out]',"Invalid input see the middle"
         else:
