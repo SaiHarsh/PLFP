@@ -115,6 +115,20 @@ for i in range(1,5,2):
 [out] 4.0
 [out] 4.0
 
-for functions in this the defination is 
+for functions in this the defined as 
+
+[In]->define add(x,y):
+---->	return x+y
+---->
+---->end
+[In]->add(1,2)
+[out]
+3
+
+Each function should start from define and end as 'end' then only it called as function in my interpreter.
+
+Even multiple commands can be written in the function
+
+
 
 
